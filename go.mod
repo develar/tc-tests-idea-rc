@@ -1,1 +1,1 @@
-module tc-tests-idea-rc
+module github.com/develar/tc-tests-idea-rc
